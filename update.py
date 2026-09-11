@@ -11,7 +11,7 @@ HOST = HOST.rstrip("/")
 
 USERNAME = os.getenv("API_USERNAME", "").strip()
 PASSWORD = os.getenv("API_PASSWORD", "").strip()
-OUTPUT_LIVE_M3U = "live_only_ostvasia.m3u"
+OUTPUT_LIVE_M3U = "jadooball.m3u"
 
 # กำหนดชื่อกลุ่มและรหัสหมวดหมู่ใหม่
 CATEGORY_MAPPING = {
