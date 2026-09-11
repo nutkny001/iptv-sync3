@@ -15,6 +15,12 @@ OUTPUT_LIVE_M3U = "jadooball.m3u"
 
 # กำหนดชื่อกลุ่มและรหัสหมวดหมู่ใหม่
 CATEGORY_MAPPING = {
+    "497": "UK | SPORTS",
+    "517": "UK | EPL",
+    "523": "UK | PPV",
+    "1491": "UK | LIVE FOOTBALL",
+    "1495": "UK | TNT SPORTS",
+    "1510": "UK | SPORTS+",
     "1350": "VIP | UEFA CHAMPIONS LEAGUE",
     "1362": "VIP | UEFA EUROPA LEAGUE",
     "1344": "VIP | PREMIER LEAGUE",
