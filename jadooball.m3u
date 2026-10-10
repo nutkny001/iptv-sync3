@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://grace4k.com/xmltv.php?username=NP9NW5U7K2KDTZ6&password=W3K8dfLMZD"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 09-10-2026 11:26 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 10-10-2026 11:11 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="1296611" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### FRENCH ######
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1296611.ts
@@ -287,7 +287,7 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015553.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015552.ts
 #EXTINF:-1 tvg-id="1015551" group-title="VIP | PREMIER LEAGUE",EN - MANCHESTER UNITED VS TOTTENHAM HOTSPUR 17:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015551.ts
-#EXTINF:-1 tvg-id="1015550" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1015550" group-title="VIP | PREMIER LEAGUE",EN - MANCHESTER UNITED VS TOTTENHAM HOTSPUR 17:30 CET [BK]
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015550.ts
 #EXTINF:-1 tvg-id="1015549" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH1
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015549.ts
@@ -309,7 +309,7 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015545.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015544.ts
 #EXTINF:-1 tvg-id="1015543" group-title="VIP | PREMIER LEAGUE",FR - MANCHESTER UNITED VS TOTTENHAM HOTSPUR 17:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015543.ts
-#EXTINF:-1 tvg-id="1015542" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1015542" group-title="VIP | PREMIER LEAGUE",FR - MANCHESTER UNITED VS TOTTENHAM HOTSPUR 17:30 CET [BK]
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015542.ts
 #EXTINF:-1 tvg-id="1015541" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015541.ts
@@ -363,44 +363,44 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1024115.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1024113.ts
 #EXTINF:-1 tvg-id="1015817" group-title="VIP | LA LIGA",##### FRENCH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015817.ts
-#EXTINF:-1 tvg-id="1117244" group-title="VIP | LA LIGA",FR - NO MATCH
+#EXTINF:-1 tvg-id="1117244" group-title="VIP | LA LIGA",FR - RAYO VALLECANO - ATHLETIC CLUB 13:00 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1117244.ts
+#EXTINF:-1 tvg-id="1033736" group-title="VIP | LA LIGA",FR - DEPORTIVO ALAVÉS - ATLÉTICO MADRID 15:15 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033736.ts
+#EXTINF:-1 tvg-id="1033737" group-title="VIP | LA LIGA",FR - BARCELONA - GETAFE 17:30 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033737.ts
+#EXTINF:-1 tvg-id="1033738" group-title="VIP | LA LIGA",FR - BARCELONA - GETAFE 17:30 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033738.ts
+#EXTINF:-1 tvg-id="1015822" group-title="VIP | LA LIGA",FR - REAL MADRID - VILLARREAL 20:00 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015822.ts
+#EXTINF:-1 tvg-id="1015821" group-title="VIP | LA LIGA",FR - REAL MADRID - VILLARREAL 20:00 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015821.ts
 #EXTINF:-1 tvg-id="1100775" group-title="VIP | LA LIGA",FR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100775.ts
-#EXTINF:-1 tvg-id="1033737" group-title="VIP | LA LIGA",FR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033737.ts
 #EXTINF:-1 tvg-id="1100783" group-title="VIP | LA LIGA",FR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100783.ts
 #EXTINF:-1 tvg-id="1100776" group-title="VIP | LA LIGA",FR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100776.ts
-#EXTINF:-1 tvg-id="1033738" group-title="VIP | LA LIGA",FR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033738.ts
-#EXTINF:-1 tvg-id="1033736" group-title="VIP | LA LIGA",FR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033736.ts
-#EXTINF:-1 tvg-id="1015822" group-title="VIP | LA LIGA",FR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015822.ts
 #EXTINF:-1 tvg-id="1015823" group-title="VIP | LA LIGA",FR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015823.ts
-#EXTINF:-1 tvg-id="1015821" group-title="VIP | LA LIGA",FR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015821.ts
 #EXTINF:-1 tvg-id="1015824" group-title="VIP | LA LIGA",##### ENGLISH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015824.ts
-#EXTINF:-1 tvg-id="1117243" group-title="VIP | LA LIGA",EN - NO MATCH
+#EXTINF:-1 tvg-id="1117243" group-title="VIP | LA LIGA",EN - RAYO VALLECANO - ATHLETIC CLUB 13:00 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1117243.ts
+#EXTINF:-1 tvg-id="1015825" group-title="VIP | LA LIGA",EN - DEPORTIVO ALAVÉS - ATLÉTICO MADRID 15:15 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015825.ts
+#EXTINF:-1 tvg-id="1100784" group-title="VIP | LA LIGA",EN - BARCELONA - GETAFE 17:30 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100784.ts
+#EXTINF:-1 tvg-id="1033746" group-title="VIP | LA LIGA",EN - REAL MADRID - VILLARREAL 20:00 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033746.ts
 #EXTINF:-1 tvg-id="1100772" group-title="VIP | LA LIGA",EN - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100772.ts
-#EXTINF:-1 tvg-id="1100784" group-title="VIP | LA LIGA",EN - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100784.ts
 #EXTINF:-1 tvg-id="1100774" group-title="VIP | LA LIGA",EN - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100774.ts
-#EXTINF:-1 tvg-id="1033746" group-title="VIP | LA LIGA",EN - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033746.ts
 #EXTINF:-1 tvg-id="1015830" group-title="VIP | LA LIGA",EN - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015830.ts
 #EXTINF:-1 tvg-id="1015829" group-title="VIP | LA LIGA",EN - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015829.ts
-#EXTINF:-1 tvg-id="1015825" group-title="VIP | LA LIGA",EN - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015825.ts
 #EXTINF:-1 tvg-id="1015828" group-title="VIP | LA LIGA",EN - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015828.ts
 #EXTINF:-1 tvg-id="1015827" group-title="VIP | LA LIGA",EN - NO MATCH
@@ -409,54 +409,58 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015827.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001780.ts
 #EXTINF:-1 tvg-id="1015831" group-title="VIP | LA LIGA",##### ARABIC #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015831.ts
-#EXTINF:-1 tvg-id="1100782" group-title="VIP | LA LIGA",AR - NO MATCH
+#EXTINF:-1 tvg-id="1100782" group-title="VIP | LA LIGA",AR - RAYO VALLECANO - ATHLETIC CLUB 13:00 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100782.ts
+#EXTINF:-1 tvg-id="1015826" group-title="VIP | LA LIGA",AR - DEPORTIVO ALAVÉS - ATLÉTICO MADRID 15:15 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015826.ts
+#EXTINF:-1 tvg-id="1100778" group-title="VIP | LA LIGA",AR - BARCELONA - GETAFE 17:30 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100778.ts
+#EXTINF:-1 tvg-id="1015836" group-title="VIP | LA LIGA",AR - REAL MADRID - VILLARREAL 20:00 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015836.ts
 #EXTINF:-1 tvg-id="1033758" group-title="VIP | LA LIGA",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033758.ts
-#EXTINF:-1 tvg-id="1100778" group-title="VIP | LA LIGA",AR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100778.ts
 #EXTINF:-1 tvg-id="1100777" group-title="VIP | LA LIGA",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100777.ts
 #EXTINF:-1 tvg-id="1033362" group-title="VIP | LA LIGA",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033362.ts
 #EXTINF:-1 tvg-id="1015837" group-title="VIP | LA LIGA",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015837.ts
-#EXTINF:-1 tvg-id="1015836" group-title="VIP | LA LIGA",AR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015836.ts
-#EXTINF:-1 tvg-id="1015826" group-title="VIP | LA LIGA",AR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015826.ts
 #EXTINF:-1 tvg-id="1015835" group-title="VIP | LA LIGA",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015835.ts
 #EXTINF:-1 tvg-id="1001784" group-title="VIP | LA LIGA",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001784.ts
 #EXTINF:-1 tvg-id="1033317" group-title="VIP | LA LIGA",##### SPAIN #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033317.ts
-#EXTINF:-1 tvg-id="1117245" group-title="VIP | LA LIGA",ES - NO MATCH
+#EXTINF:-1 tvg-id="1117245" group-title="VIP | LA LIGA",ES - RAYO VALLECANO - ATHLETIC CLUB 13:00 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1117245.ts
+#EXTINF:-1 tvg-id="1015832" group-title="VIP | LA LIGA",ES - DEPORTIVO ALAVÉS - ATLÉTICO MADRID 15:15 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015832.ts
+#EXTINF:-1 tvg-id="1100780" group-title="VIP | LA LIGA",ES - BARCELONA - GETAFE 17:30 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100780.ts
+#EXTINF:-1 tvg-id="1028728" group-title="VIP | LA LIGA",ES - REAL MADRID - VILLARREAL 20:00 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1028728.ts
 #EXTINF:-1 tvg-id="1100779" group-title="VIP | LA LIGA",ES - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100779.ts
 #EXTINF:-1 tvg-id="1100781" group-title="VIP | LA LIGA",ES - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100781.ts
-#EXTINF:-1 tvg-id="1100780" group-title="VIP | LA LIGA",ES - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100780.ts
 #EXTINF:-1 tvg-id="1033785" group-title="VIP | LA LIGA",ES - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033785.ts
 #EXTINF:-1 tvg-id="1033358" group-title="VIP | LA LIGA",ES - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033358.ts
 #EXTINF:-1 tvg-id="1033357" group-title="VIP | LA LIGA",ES - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033357.ts
-#EXTINF:-1 tvg-id="1015832" group-title="VIP | LA LIGA",ES - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015832.ts
 #EXTINF:-1 tvg-id="1033355" group-title="VIP | LA LIGA",ES - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033355.ts
-#EXTINF:-1 tvg-id="1028728" group-title="VIP | LA LIGA",ES - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1028728.ts
 #EXTINF:-1 tvg-id="1145824" group-title="VIP | LA LIGA",##### ALBANIA #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1145824.ts
-#EXTINF:-1 tvg-id="1145838" group-title="VIP | LA LIGA",ALB - NO MATCH
+#EXTINF:-1 tvg-id="1145838" group-title="VIP | LA LIGA",ALB - RAYO VALLECANO - ATHLETIC CLUB 13:00 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1145838.ts
-#EXTINF:-1 tvg-id="1086615" group-title="VIP | LA LIGA",ALB - NO MATCH
+#EXTINF:-1 tvg-id="1015819" group-title="VIP | LA LIGA",ALB - DEPORTIVO ALAVÉS - ATLÉTICO MADRID 15:15 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015819.ts
+#EXTINF:-1 tvg-id="1086615" group-title="VIP | LA LIGA",ALB - BARCELONA - GETAFE 17:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1086615.ts
+#EXTINF:-1 tvg-id="1001755" group-title="VIP | LA LIGA",ALB - REAL MADRID - VILLARREAL 20:00 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001755.ts
 #EXTINF:-1 tvg-id="1117242" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1117242.ts
 #EXTINF:-1 tvg-id="1015834" group-title="VIP | LA LIGA",ALB - NO MATCH
@@ -465,25 +469,21 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015834.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015833.ts
 #EXTINF:-1 tvg-id="1015820" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015820.ts
-#EXTINF:-1 tvg-id="1015819" group-title="VIP | LA LIGA",ALB - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015819.ts
-#EXTINF:-1 tvg-id="1001755" group-title="VIP | LA LIGA",ALB - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001755.ts
 #EXTINF:-1 tvg-id="1015818" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015818.ts
 #EXTINF:-1 tvg-id="1001754" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001754.ts
 #EXTINF:-1 tvg-id="1018302" group-title="VIP | LIGUE 1",##### FRENCH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018302.ts
-#EXTINF:-1 tvg-id="1022237" group-title="VIP | LIGUE 1",FR - LENS VS OLYMPIQUE LYONNAIS 19:45 CET
+#EXTINF:-1 tvg-id="1022237" group-title="VIP | LIGUE 1",FR - LILLE VS LE HAVRE 16:15 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1022237.ts
-#EXTINF:-1 tvg-id="1018311" group-title="VIP | LIGUE 1",FR - NO MATCH
+#EXTINF:-1 tvg-id="1018311" group-title="VIP | LIGUE 1",FR - PSG VS LE MANS 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018311.ts
-#EXTINF:-1 tvg-id="1018310" group-title="VIP | LIGUE 1",FR - NO MATCH
+#EXTINF:-1 tvg-id="1018310" group-title="VIP | LIGUE 1",FR - MONACO VS TOULOUSE 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018310.ts
-#EXTINF:-1 tvg-id="1018309" group-title="VIP | LIGUE 1",FR - NO MATCH
+#EXTINF:-1 tvg-id="1018309" group-title="VIP | LIGUE 1",FR - LORIENT VS PARIS 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018309.ts
-#EXTINF:-1 tvg-id="1018308" group-title="VIP | LIGUE 1",FR - NO MATCH
+#EXTINF:-1 tvg-id="1018308" group-title="VIP | LIGUE 1",FR - BREST VS ANGERS SCO 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018308.ts
 #EXTINF:-1 tvg-id="1018307" group-title="VIP | LIGUE 1",FR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018307.ts
@@ -499,15 +499,15 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001769.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018303.ts
 #EXTINF:-1 tvg-id="1018312" group-title="VIP | LIGUE 1",##### ARABIC #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018312.ts
-#EXTINF:-1 tvg-id="1018321" group-title="VIP | LIGUE 1",AR - LENS VS OLYMPIQUE LYONNAIS 19:45 CET
+#EXTINF:-1 tvg-id="1018321" group-title="VIP | LIGUE 1",AR - LILLE VS LE HAVRE 16:15 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018321.ts
-#EXTINF:-1 tvg-id="1018320" group-title="VIP | LIGUE 1",AR - NO MATCH
+#EXTINF:-1 tvg-id="1018320" group-title="VIP | LIGUE 1",AR - PSG VS LE MANS 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018320.ts
-#EXTINF:-1 tvg-id="1018319" group-title="VIP | LIGUE 1",AR - NO MATCH
+#EXTINF:-1 tvg-id="1018319" group-title="VIP | LIGUE 1",AR - MONACO VS TOULOUSE 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018319.ts
-#EXTINF:-1 tvg-id="1018318" group-title="VIP | LIGUE 1",AR - NO MATCH
+#EXTINF:-1 tvg-id="1018318" group-title="VIP | LIGUE 1",AR - LORIENT VS PARIS 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018318.ts
-#EXTINF:-1 tvg-id="1018317" group-title="VIP | LIGUE 1",AR - NO MATCH
+#EXTINF:-1 tvg-id="1018317" group-title="VIP | LIGUE 1",AR - BREST VS ANGERS SCO 19:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018317.ts
 #EXTINF:-1 tvg-id="1018316" group-title="VIP | LIGUE 1",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018316.ts
@@ -587,17 +587,17 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018109.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018108.ts
 #EXTINF:-1 tvg-id="1017979" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017979.ts
-#EXTINF:-1 tvg-id="1100768" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-id="1100768" group-title="VIP | BUNDESLIGA",DE - AUGSBURG - BAYERN MÜNCHEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100768.ts
-#EXTINF:-1 tvg-id="1100767" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-id="1100767" group-title="VIP | BUNDESLIGA",DE - HOFFENHEIM - HAMBURGER SV 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100767.ts
-#EXTINF:-1 tvg-id="1042307" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-id="1042307" group-title="VIP | BUNDESLIGA",DE - MAINZ 05 - BAYER LEVERKUSEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1042307.ts
-#EXTINF:-1 tvg-id="1017985" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-id="1017985" group-title="VIP | BUNDESLIGA",DE - PADERBORN - STUTTGART 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017985.ts
-#EXTINF:-1 tvg-id="1017984" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-id="1017984" group-title="VIP | BUNDESLIGA",DE - UNION BERLIN - ELVERSBERG 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017984.ts
-#EXTINF:-1 tvg-id="1017983" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-id="1017983" group-title="VIP | BUNDESLIGA",DE - RB LEIPZIG - EINTRACHT FRANKFURT 17:30 CET 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017983.ts
 #EXTINF:-1 tvg-id="1017982" group-title="VIP | BUNDESLIGA",DE - NO MATCH 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017982.ts
@@ -607,17 +607,17 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017980.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017981.ts
 #EXTINF:-1 tvg-id="1017972" group-title="VIP | BUNDESLIGA",##### ENGLISH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017972.ts
-#EXTINF:-1 tvg-id="1100762" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-id="1100762" group-title="VIP | BUNDESLIGA",EN - AUGSBURG - BAYERN MÜNCHEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100762.ts
-#EXTINF:-1 tvg-id="1100761" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-id="1100761" group-title="VIP | BUNDESLIGA",EN - HOFFENHEIM - HAMBURGER SV 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100761.ts
-#EXTINF:-1 tvg-id="1042308" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-id="1042308" group-title="VIP | BUNDESLIGA",EN - MAINZ 05 - BAYER LEVERKUSEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1042308.ts
-#EXTINF:-1 tvg-id="1017978" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-id="1017978" group-title="VIP | BUNDESLIGA",EN - PADERBORN - STUTTGART 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017978.ts
-#EXTINF:-1 tvg-id="1017977" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-id="1017977" group-title="VIP | BUNDESLIGA",EN - UNION BERLIN - ELVERSBERG 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017977.ts
-#EXTINF:-1 tvg-id="1017976" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-id="1017976" group-title="VIP | BUNDESLIGA",EN - RB LEIPZIG - EINTRACHT FRANKFURT 17:30 CET 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017976.ts
 #EXTINF:-1 tvg-id="1017975" group-title="VIP | BUNDESLIGA",EN - NO MATCH 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017975.ts
@@ -627,17 +627,17 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017973.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017974.ts
 #EXTINF:-1 tvg-id="1017965" group-title="VIP | BUNDESLIGA",##### FRENCH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017965.ts
-#EXTINF:-1 tvg-id="1100764" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-id="1100764" group-title="VIP | BUNDESLIGA",FR - AUGSBURG - BAYERN MÜNCHEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100764.ts
-#EXTINF:-1 tvg-id="1100763" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-id="1100763" group-title="VIP | BUNDESLIGA",FR - HOFFENHEIM - HAMBURGER SV 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100763.ts
-#EXTINF:-1 tvg-id="1067573" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-id="1067573" group-title="VIP | BUNDESLIGA",FR - MAINZ 05 - BAYER LEVERKUSEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1067573.ts
-#EXTINF:-1 tvg-id="1029741" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-id="1029741" group-title="VIP | BUNDESLIGA",FR - PADERBORN - STUTTGART 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1029741.ts
-#EXTINF:-1 tvg-id="1029740" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-id="1029740" group-title="VIP | BUNDESLIGA",FR - UNION BERLIN - ELVERSBERG 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1029740.ts
-#EXTINF:-1 tvg-id="1029739" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-id="1029739" group-title="VIP | BUNDESLIGA",FR - RB LEIPZIG - EINTRACHT FRANKFURT 17:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1029739.ts
 #EXTINF:-1 tvg-id="1029738" group-title="VIP | BUNDESLIGA",FR - NO MATCH 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1029738.ts
@@ -647,29 +647,29 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017966.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1029737.ts
 #EXTINF:-1 tvg-id="1005066" group-title="VIP | BUNDESLIGA",##### ARABIC #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1005066.ts
-#EXTINF:-1 tvg-id="1100766" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-id="1100766" group-title="VIP | BUNDESLIGA",AR - AUGSBURG - BAYERN MÜNCHEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100766.ts
-#EXTINF:-1 tvg-id="1100765" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-id="1100765" group-title="VIP | BUNDESLIGA",AR - HOFFENHEIM - HAMBURGER SV 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100765.ts
-#EXTINF:-1 tvg-id="1042306" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-id="1042306" group-title="VIP | BUNDESLIGA",AR - MAINZ 05 - BAYER LEVERKUSEN 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1042306.ts
-#EXTINF:-1 tvg-id="1033762" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-id="1033762" group-title="VIP | BUNDESLIGA",AR - PADERBORN - STUTTGART 14:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033762.ts
+#EXTINF:-1 tvg-id="1017970" group-title="VIP | BUNDESLIGA",AR - UNION BERLIN - ELVERSBERG 14:30 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017970.ts
+#EXTINF:-1 tvg-id="1017969" group-title="VIP | BUNDESLIGA",AR - RB LEIPZIG - EINTRACHT FRANKFURT 17:30 CET
+http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017969.ts
 #EXTINF:-1 tvg-id="1017971" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017971.ts
-#EXTINF:-1 tvg-id="1017970" group-title="VIP | BUNDESLIGA",AR - NO MATCH
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017970.ts
-#EXTINF:-1 tvg-id="1017969" group-title="VIP | BUNDESLIGA",AR - NO MATCH 
-http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017969.ts
 #EXTINF:-1 tvg-id="1017967" group-title="VIP | BUNDESLIGA",AR - NO MATCH 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017967.ts
 #EXTINF:-1 tvg-id="1017968" group-title="VIP | BUNDESLIGA",AR - NO MATCH 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1017968.ts
 #EXTINF:-1 tvg-id="1032044" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL #### 
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1032044.ts
-#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
+#EXTINF:-1 tvg-id="1150149" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - MOREIRENSE VS GIL VICENTE 17:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1150149.ts
-#EXTINF:-1 tvg-id="1127869" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
+#EXTINF:-1 tvg-id="1127869" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - SPORTING BRAGA VS SPORTING CP 19:15 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1127869.ts
 #EXTINF:-1 tvg-id="1100841" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO EVENT
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100841.ts
