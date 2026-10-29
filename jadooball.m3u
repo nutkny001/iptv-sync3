@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://grace4k.com/xmltv.php?username=NP9NW5U7K2KDTZ6&password=W3K8dfLMZD"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 28-10-2026 10:51 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 29-10-2026 11:14 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="1296611" group-title="VIP | UEFA CHAMPIONS LEAGUE",###### FRENCH ######
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1296611.ts
@@ -293,7 +293,7 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/682941.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1024461.ts
 #EXTINF:-1 tvg-id="1020754" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1020754.ts
-#EXTINF:-1 tvg-id="1100811" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+#EXTINF:-1 tvg-id="1100811" group-title="VIP | PREMIER LEAGUE",EN - EVERTON VS NEWCASTLE UNITED 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100811.ts
 #EXTINF:-1 tvg-id="1100810" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100810.ts
@@ -315,7 +315,7 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015548.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015547.ts
 #EXTINF:-1 tvg-id="1020753" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1020753.ts
-#EXTINF:-1 tvg-id="1100813" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+#EXTINF:-1 tvg-id="1100813" group-title="VIP | PREMIER LEAGUE",FR - EVERTON VS NEWCASTLE UNITED 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100813.ts
 #EXTINF:-1 tvg-id="1100812" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100812.ts
@@ -337,7 +337,7 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015540.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1015539.ts
 #EXTINF:-1 tvg-id="1020752" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1020752.ts
-#EXTINF:-1 tvg-id="1100815" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+#EXTINF:-1 tvg-id="1100815" group-title="VIP | PREMIER LEAGUE",AR - EVERTON VS NEWCASTLE UNITED 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100815.ts
 #EXTINF:-1 tvg-id="1100814" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100814.ts
@@ -539,15 +539,15 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018313.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001753.ts
 #EXTINF:-1 tvg-id="1018093" group-title="VIP | SERIE A",##### ITALY #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018093.ts
-#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - SASSUOLO VS LAZIO – 18:30 CET
+#EXTINF:-1 tvg-id="1421365" group-title="VIP | SERIE A",IT - MILAN VS BOLOGNA 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1421365.ts
-#EXTINF:-1 tvg-id="1100791" group-title="VIP | SERIE A",IT - AS ROMA VS CAGLIARI – 20:45 PM ET
+#EXTINF:-1 tvg-id="1100791" group-title="VIP | SERIE A",IT - PARMA VS UDINESE 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100791.ts
-#EXTINF:-1 tvg-id="1100790" group-title="VIP | SERIE A",IT - TORINO VS COMO – 20:45 PM ET
+#EXTINF:-1 tvg-id="1100790" group-title="VIP | SERIE A",IT - VENEZIA VS INTERNAZIONALE 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100790.ts
-#EXTINF:-1 tvg-id="1033757" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-id="1033757" group-title="VIP | SERIE A",IT - GENOA VS JUVENTUS 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033757.ts
-#EXTINF:-1 tvg-id="1033756" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-id="1033756" group-title="VIP | SERIE A",IT - MONZA VS NAPOLI 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1033756.ts
 #EXTINF:-1 tvg-id="1018106" group-title="VIP | SERIE A",IT - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018106.ts
@@ -561,15 +561,15 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018102.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018103.ts
 #EXTINF:-1 tvg-id="1001778" group-title="VIP | SERIE A",##### ENGLISH #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001778.ts
-#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - SASSUOLO VS LAZIO – 18:30 CET
+#EXTINF:-1 tvg-id="1421366" group-title="VIP | SERIE A",EN - MILAN VS BOLOGNA 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1421366.ts
-#EXTINF:-1 tvg-id="1100792" group-title="VIP | SERIE A",EN - AS ROMA VS CAGLIARI – 20:45 PM ET
+#EXTINF:-1 tvg-id="1100792" group-title="VIP | SERIE A",EN - PARMA VS UDINESE 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1100792.ts
-#EXTINF:-1 tvg-id="1028898" group-title="VIP | SERIE A",EN - TORINO VS COMO – 20:45 PM ET
+#EXTINF:-1 tvg-id="1028898" group-title="VIP | SERIE A",EN - VENEZIA VS INTERNAZIONALE 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1028898.ts
-#EXTINF:-1 tvg-id="1028731" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-id="1028731" group-title="VIP | SERIE A",EN - GENOA VS JUVENTUS 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1028731.ts
-#EXTINF:-1 tvg-id="1028730" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-id="1028730" group-title="VIP | SERIE A",EN - MONZA VS NAPOLI 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1028730.ts
 #EXTINF:-1 tvg-id="1018098" group-title="VIP | SERIE A",EN - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018098.ts
@@ -583,15 +583,15 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018094.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018095.ts
 #EXTINF:-1 tvg-id="1001752" group-title="VIP | SERIE A",##### ARABIC #####
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1001752.ts
-#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - SASSUOLO VS LAZIO – 18:30 CET
+#EXTINF:-1 tvg-id="1421367" group-title="VIP | SERIE A",AR - MILAN VS BOLOGNA 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1421367.ts
-#EXTINF:-1 tvg-id="1421364" group-title="VIP | SERIE A",AR - AS ROMA VS CAGLIARI – 20:45 PM ET
+#EXTINF:-1 tvg-id="1421364" group-title="VIP | SERIE A",AR - PARMA VS UDINESE 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1421364.ts
-#EXTINF:-1 tvg-id="1421363" group-title="VIP | SERIE A",AR - TORINO VS COMO – 20:45 PM ET
+#EXTINF:-1 tvg-id="1421363" group-title="VIP | SERIE A",AR - VENEZIA VS INTERNAZIONALE 18:30 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1421363.ts
-#EXTINF:-1 tvg-id="1421362" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-id="1421362" group-title="VIP | SERIE A",AR - GENOA VS JUVENTUS 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1421362.ts
-#EXTINF:-1 tvg-id="1018113" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-id="1018113" group-title="VIP | SERIE A",AR - MONZA VS NAPOLI 20:45 CET
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018113.ts
 #EXTINF:-1 tvg-id="1018112" group-title="VIP | SERIE A",AR - NO MATCH
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1018112.ts
@@ -1111,9 +1111,9 @@ http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/912772.ts
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/912773.ts
 #EXTINF:-1 tvg-id="912774" group-title="UK | SPORTS",UK - LA LIGA TV SD
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/912774.ts
-#EXTINF:-1 tvg-id="348325" group-title="UK | SPORTS",UK - BEIN SPORTS 1 ENGLISH HD
+#EXTINF:-1 tvg-id="348325" group-title="UK | SPORTS",UK - BEIN SPORTS 1 ENGLISH FHD
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/348325.ts
-#EXTINF:-1 tvg-id="575400" group-title="UK | SPORTS",UK - BEIN SPORTS 2 ENGLISH HD
+#EXTINF:-1 tvg-id="575400" group-title="UK | SPORTS",UK - BEIN SPORTS 2 ENGLISH FHD
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/575400.ts
 #EXTINF:-1 tvg-id="1481889" group-title="UK | SPORTS",UK - PREMIER SPORTS RUGBY FHD
 http://grace4k.com/live/NP9NW5U7K2KDTZ6/W3K8dfLMZD/1481889.ts
